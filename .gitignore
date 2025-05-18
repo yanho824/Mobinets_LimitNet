@@ -1,0 +1,13 @@
+adaptive_frames/
+adaptive_results/
+comparison_results/
+data/
+extracted_frames/
+images/
+processed_frames/
+processed_video.mp4
+yolov5/
+optimized_results/
+SalData/
+tracked_frames/
+root.code-workspace/
