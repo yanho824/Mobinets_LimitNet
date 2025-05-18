@@ -1,6 +1,6 @@
 # LimitNet: 渐进式、内容感知的图像与视频处理框架
 
-欢迎使用LimitNet项目！本项目是论文 **[LimitNet: Progressive, Content-Aware Image Offloading for Extremely Weak Devices & Networks (MobiSys'2024)](https://dl.acm.org/doi/10.1145/3643832.3661856)** 的官方代码仓库。
+本项目是基于论文 **[LimitNet: Progressive, Content-Aware Image Offloading for Extremely Weak Devices & Networks (MobiSys'2024)](https://dl.acm.org/doi/10.1145/3643832.3661856)** 的官方代码仓库进行拓展探索的代码仓库。
 
 ## 项目概要
 
